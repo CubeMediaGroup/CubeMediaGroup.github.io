@@ -1,2 +1,2 @@
-# CubeMediaGroup.github.io
+# CubeMediaGroup
 CubeMediaGroup website GitHub Pages
